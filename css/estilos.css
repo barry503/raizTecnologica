@@ -1,0 +1,70 @@
+.banner_section {
+    width: 100%;
+    float: left;
+    padding-top: 150px;
+}
+
+.layout_padding {
+     padding-top: 90px;
+     padding-bottom: 0px;
+}
+
+.header_sectionI {
+    width: 100%;
+    float: left;
+    background-image: url(../img/banner-bg.png);
+    height: auto;
+    padding: 20px 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 80vh;
+}
+
+
+#main_slider div.img-box {
+    margin-top: 35px;
+    float: right;
+}
+
+
+
+.carousel-indicators .active {
+    background-color: #895c43;
+    height: 8px;
+    width: 5%;
+}
+
+.carousel-indicators li { 
+    background-color: #052501; 
+    height: 8px;
+    width: 5%;
+    top: 50px;
+
+}
+
+.border-50{
+    border-radius: 50px;
+}
+
+.page-footer {
+  position: relative;
+  display: block;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  /*background-color: #33374B;*/
+  color: #fff;
+}
+
+.about-img {
+  position: relative;
+  margin: 15px auto;
+  width: auto;
+  max-width: 500px;
+  border-radius: 12px;
+  overflow: hidden;
+  -webkit-box-shadow: 0 8px 16px rgba(109, 114, 139, 0.3);
+  box-shadow: 0 8px 16px rgba(109, 114, 139, 0.3);
+  -webkit-transform: skewX(-3deg) rotateX(20deg);
+  transform: skewX(-3deg) rotateX(20deg);
+}
+

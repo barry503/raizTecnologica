@@ -1,0 +1,93 @@
+
+body{	
+  background: linear-gradient(90deg,#589e43c4,#fff 25%,#589e43c4);
+}
+
+.fz-100{
+	width: 200px;
+}
+.t-200{
+	font-size: 200px;
+}
+.t-50{
+	font-size: 30px;
+}
+
+.bg-lime {
+	background: #589e43;/*#81B622*/	
+	/*border-radius:10%;*/
+}
+.text-lime{
+	color: #589e43;/*#81B622*/		
+}
+.bg-ygreen {
+	background: #ECF87F;
+
+}
+
+.bg-ebony {
+	background: #0A0708;
+}
+
+.bg-olive{
+	background: #3D550C;
+}
+.bor {
+	border-radius:10%;
+}
+.a-s{
+	background: #2F5233;
+}
+
+.sin-bg{
+	/*background: #343a4075;*/
+	background: rgba(255, 255, 255, 0.5);
+}
+.nav-item .active{
+	background: #589e43b3;/*#81b622*/
+}
+
+.bg-oscuro{
+	background: #212529;/*#79360db0*/
+}
+
+.btn-oscuro, .btn-oscuro:hover {
+	background: #212529;/*#79360db0*/
+}
+
+
+
+/*estilos para boton del menu*/
+.back-to-top {
+  bottom: 1.25rem;
+  position: fixed;
+  right: 1.25rem;
+  z-index: 1032;
+}
+
+.back-to-top:focus {
+  box-shadow: none;
+}
+
+/*botones mis estilos*/
+.btn-lime {
+	background: #589e43;/*#81B622*/	
+	/*border-radius:10%;*/
+}
+
+.btn-lime:hover {
+	background: #589e43;/*#81B622*/	
+	color: #000;
+}
+
+.fz-40{
+ font-size: 40px;
+}
+
+.imagenload {
+	border-radius: 100px;
+}
+
+.tam-100 {
+	border-radius: 100px;
+}
